@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb42498c-01c2-4f22-885c-974d9b7af369" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/page/AccountsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/factory/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/util/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/util/ElementUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/AccountsPageStepsDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/ApplicationHooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/LoginStepsDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallel/ParallelRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testRunners/MyTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Config/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/parallel/AccountsPage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/parallel/Loginpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/chosen.override.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/vis.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/vis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output-thread/vis.override.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/embedded1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lKsmDkRc2oi8Cpj2blsFB9bL2h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Cucumber Java.Feature: AccountsPage.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Loginpage (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Loginpage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MyTestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ParallelRun.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CucumberPOM [clean,test,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CucumberPOMSeries [clean,compile,test...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CucumberPOMSeries [clean,test,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CucumberPOMSeries [clean,test,verify...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CucumberPOMSeries [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CucumberPOMSeries [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\azima\CucumberPOM\src\test\resources\parallel" />
+      <recent name="C:\Users\azima\CucumberPOM\src\test\resources\Features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ParallelRun">
+    <configuration name="Feature: AccountsPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/AccountsPage.feature" />
+      <option name="GLUE" value="com.stepdefinitions com.ApplicationHooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberPOM" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AccountsPage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Loginpage (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/Loginpage.feature" />
+      <option name="GLUE" value="com.stepdefinitions com.ApplicationHooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberPOM" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Loginpage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Loginpage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/loginpage/Loginpage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberPOM" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Loginpage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunners" />
+      <option name="MAIN_CLASS_NAME" value="testRunners.MyTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parallel" />
+      <option name="MAIN_CLASS_NAME" value="parallel.ParallelRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParallelRun" />
+        <item itemvalue="JUnit.MyTestRunner" />
+        <item itemvalue="Cucumber Java.Feature: AccountsPage" />
+        <item itemvalue="Cucumber Java.Feature: Loginpage (1)" />
+        <item itemvalue="Cucumber Java.Feature: Loginpage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb42498c-01c2-4f22-885c-974d9b7af369" name="Changes" comment="" />
+      <created>1724940259691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724940259691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
